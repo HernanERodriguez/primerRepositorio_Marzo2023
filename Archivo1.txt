@@ -1,4 +1,5 @@
 Antes rebase
+Para rebase
 Cambio local
 Ticket 2
 Archivo1

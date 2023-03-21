@@ -9,6 +9,8 @@ Agregado remoto
 
 Cambio para notificacion
 
+Agrego linea para REVERT
+
 Antes rebase
 Vamos al rebase
 Para rebase
